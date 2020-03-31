@@ -1,0 +1,36 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
+#nav {
+    line-height:80px;
+    background-color:#eeeeee;
+    height:650px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:1050px;
+    float:left;
+    padding:10px;	 	 
+}
+img {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 5px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+    float:right;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
